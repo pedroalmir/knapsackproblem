@@ -34,6 +34,7 @@
 	    <script src="${pageContext.request.contextPath}/js/bootstrap.min.js"></script>
 	    <script src="${pageContext.request.contextPath}/js/docs.min.js"></script>
 	    <script src="${pageContext.request.contextPath}/js/jquery.easing.1.3.js"></script>
+	    <script src="${pageContext.request.contextPath}/js/main.js"></script>
 	</head>
 	<body>
 		<!-- Fixed navbar -->
